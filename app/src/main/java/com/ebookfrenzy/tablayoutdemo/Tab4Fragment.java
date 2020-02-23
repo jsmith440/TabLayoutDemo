@@ -26,4 +26,7 @@ public class Tab4Fragment extends Fragment {
     return inflater.inflate(R.layout.fragment_tab4, container, false);
   }
 
+  public interface OnFragmentInteractionListener {
+
+  }
 }
